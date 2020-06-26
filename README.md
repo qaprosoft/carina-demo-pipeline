@@ -1,1 +1,1 @@
-# qps-pipeline-demo
+# carina-pipeline-demo
